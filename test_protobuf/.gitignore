@@ -1,0 +1,9 @@
+x64/
+Debug
+debug
+Release
+release
+.vs
+*.png
+dump-img/
+log/
